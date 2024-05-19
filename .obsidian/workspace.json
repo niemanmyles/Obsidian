@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Pentesting/3. Attacking Authorization/1. Intro to Authorization.md",
+                "file": "API Pentesting/3. Attacking Authorization/Authorization vulns.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "API Pentesting/4. Attacking Authentication/3. JWT Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "API Pentesting/4. Attacking Authentication/3. JWT Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "API Pentesting/4. Attacking Authentication/3. JWT Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "API Pentesting/4. Attacking Authentication/3. JWT Theory.md"
               }
             }
           }
@@ -162,18 +162,21 @@
   },
   "active": "3eee951a1d0928a9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "API Pentesting/3. Attacking Authorization/1. Intro to Authorization.md",
-    "docker-compose.yml",
+    "API Pentesting/4. Attacking Authentication/2. Attacking Tokens.md",
+    "API Pentesting/4. Attacking Authentication/3. JWT Theory.md",
+    "API Pentesting/4. Attacking Authentication/1. Attacking Authentication.md",
+    "API Pentesting/4. Attacking Authentication",
+    "API Pentesting/3. Attacking Authorization/Authorization vulns.md",
     "API Pentesting/2. Enumerating APIs/3. Discovery via source code.md",
-    "API Pentesting/3. Attacking Authorization",
     "API Pentesting/2. Enumerating APIs/2. Fuzzing.md",
     "API Pentesting/2. Enumerating APIs/1. Intro to Enumeration.md",
     "API Pentesting/1. Introduction/4. API Security.md",
-    "API Pentesting/2. Enumerating APIs",
     "API Pentesting/1. Introduction/3. Types of APIs.md",
     "API Pentesting/1. Introduction/2. Interacting With APIs.md",
     "API Pentesting/1. Introduction/1. API.md",
+    "docker-compose.yml",
+    "API Pentesting/3. Attacking Authorization",
+    "API Pentesting/2. Enumerating APIs",
     "API Pentesting/1. Introduction",
     "API Pentesting",
     "Untitled.canvas"
