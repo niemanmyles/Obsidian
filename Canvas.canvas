@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"97311f7f24374c6b","type":"file","file":"HTB-Modules.md","x":-83,"y":-290,"width":783,"height":470},
+		{"id":"0a3702476f8728c6","type":"file","file":"HTB Machines.md","x":-780,"y":-290,"width":697,"height":470}
+	],
+	"edges":[]
+}
